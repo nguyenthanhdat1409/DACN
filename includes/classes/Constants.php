@@ -18,6 +18,9 @@ class Constants{
     public static $passwordLength = " Password dont Length, 5-25 characters oki ";
 
     public static $LoginFailed = "your user passsword Saiiii ";
+
+    public static $passwordIncorrect = "your user passsword is correct ";
+
 }
 
 ?>

@@ -5,13 +5,6 @@ include_once("includes/header.php");
 
 
 ?>
-<style>
-    * {
-        background-color: black;
-    }
-</style>
-
-
     <div class="textboxContainer">
         <input type="text" class="searchInput" placeholder="Search for something">
     </div>
